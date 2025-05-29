@@ -1,3 +1,17 @@
+# Extracting, Transforming, and Loading with ETL Scripting :
+#----------------------------------------------------------
+    Create a Python script we can use to automate processes related to extracting data from one source, transforming that data
+to meet a data scientist's needs and load the data into a data source accessible to the data scientist.
+
+# OBJECTIVES
+#-----------
+- Describe a variety of activities related to ETL.
+- Leverage Python to extract, transform, and load data from various sources.
+- Use Python to create a script that extracts data from one location, transforms the data as necessary, and loads the transformed data into a
+separate database.
+- Leverage Python and object-oriented programming concepts to create a reusable and compact ETL library.
+
+
 # 1 extract.py: The extract class shell
 class extract:
     def fromCSV(self):
